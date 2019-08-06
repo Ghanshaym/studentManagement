@@ -1,0 +1,26 @@
+{
+  "name": "student_management",
+  "version": "1.0.0",
+  "description": "crete apis for student and teacher data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghanshaym/sign-up.git"
+  },
+  "author": "ghanshyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghanshaym/sign-up/issues"
+  },
+  "homepage": "https://github.com/Ghanshaym/sign-up#readme",
+  "dependencies": {
+    "enum": "^2.5.0",
+    "joi": "^14.3.1",
+    "joi-enums-extension": "^2.0.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
