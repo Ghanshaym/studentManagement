@@ -21,6 +21,6 @@
     "enum": "^2.5.0",
     "joi": "^14.3.1",
     "joi-enums-extension": "^2.0.3",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
